@@ -1,7 +1,7 @@
 # Applied-Machine-Learning-in-Python
 Coursera | Applied Machine Learning in Python（University of Michigan）
 
-These may include the latest answers to assignments of Applied Machine Learning in Python
+These may include answers to quiz and assignments of Applied Machine Learning in Python
 You can see the link in my blog.
 
 [Coursera | Applied Machine Learning in Python（University of Michigan）| Quiz](https://ycchen00.github.io/2020/12/12/AppliedML/Quiz/)
